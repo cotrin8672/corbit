@@ -87,14 +87,14 @@
 			(outputdirectory "")
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "06cd788d-76d4-4c21-a887-9af753fa3926")
 		(at 79 100 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW6"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "bef7ba88-c2a9-4427-b421-06c8b56db6fe")
 			(effects
@@ -105,7 +105,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0305308b-3a55-43d7-9ea6-0adc8ebe6100")
@@ -117,7 +117,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "55d36617-97f8-4916-a9de-c78ff00d72e7")
@@ -129,7 +129,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5b3ee429-4724-428e-8ae4-c66f12825e8c")
@@ -142,7 +142,7 @@
 		)
 		(path "/2da9d7ab-e3be-4598-b7c0-082af580d2b0")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -632,7 +632,7 @@
 			(uuid "53658acb-30b8-4b5e-b32b-0a50b6f507c6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "103caa43-2ce9-4c99-a618-a1219c6faed1")
 			(effects
@@ -710,14 +710,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "1437a900-f00c-4a45-aace-3a7b82553b13")
 		(at 151 111 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW15"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "27f69bd9-9881-4482-83b5-13f3112ae6c9")
 			(effects
@@ -728,7 +728,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04a841c8-d4fb-4b0d-9f0e-b3d3531198cd")
@@ -740,7 +740,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "416e6cd4-190b-4952-a076-0116b5a80031")
@@ -752,7 +752,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6213e497-4cc1-409f-8813-609b9d3c3e69")
@@ -765,7 +765,7 @@
 		)
 		(path "/26aa8987-e9a2-4b2f-b2c0-52474c7ded79")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1255,7 +1255,7 @@
 			(uuid "d45db16e-b447-4a6b-817e-4435babf93b5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "92eab942-dc4b-4623-a810-5140b53e1c64")
 			(effects
@@ -1333,14 +1333,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "216cb76d-5b95-4862-99eb-a73f093eef0e")
 		(at 61 96 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW16"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "6598a415-4923-4d27-a2eb-a970f409e1fc")
 			(effects
@@ -1351,7 +1351,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b03da7b-ca4c-4572-b1fe-2df9e234990f")
@@ -1363,7 +1363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cc7c1888-4436-4eae-b41f-399921be4942")
@@ -1375,7 +1375,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a59bd97-8af9-4ece-8bb2-ce9244eb6ffb")
@@ -1388,7 +1388,7 @@
 		)
 		(path "/9277d4e3-24fa-4a82-99dd-a9b546c428a2")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1878,7 +1878,7 @@
 			(uuid "b6f6fc5c-b993-4df9-b256-c0927ab71e21")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "1e890a52-b6bc-45be-9c50-c86ac8af992f")
 			(effects
@@ -1956,14 +1956,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "264a69b0-332b-43db-a072-bd8d7b121bec")
 		(at 97 73 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW2"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "8feee710-4acb-4345-8d70-d7e366878ec3")
 			(effects
@@ -1974,7 +1974,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f47b6643-abf3-41f9-8877-a3b7f2e52e61")
@@ -1986,7 +1986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "28284848-16a4-4a6c-9cc1-c9db5a43cf05")
@@ -1998,7 +1998,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e3cece83-6e59-4510-8ef6-0809dacb5529")
@@ -2011,7 +2011,7 @@
 		)
 		(path "/f3965428-374b-41f8-bfca-d71e37388126")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2501,7 +2501,7 @@
 			(uuid "4a25fab2-60bd-4495-a480-c61d0871111b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "ee6aa1ed-2a68-4375-abf5-246db7bc8c44")
 			(effects
@@ -2579,14 +2579,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "43fda463-9582-4525-8659-e7ee7655be94")
 		(at 133 128 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW18"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "55fdce2c-0f9d-482c-94e8-08fc4181ace7")
 			(effects
@@ -2597,7 +2597,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a82865c1-20ed-4771-bdc8-cec0e6bbea69")
@@ -2609,7 +2609,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7a8b8cbb-2a9a-447c-8388-ee5e68e70c80")
@@ -2621,7 +2621,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1af91826-ce7a-4771-b545-a764d1509e47")
@@ -2634,7 +2634,7 @@
 		)
 		(path "/96524e1e-7d71-4a7d-8430-f4f62e91ffad")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3124,7 +3124,7 @@
 			(uuid "acfb4ae6-20c5-43a6-ac07-2544094dd782")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "0733e6a6-e7c7-4bf9-9b85-6371e313d292")
 			(effects
@@ -3202,14 +3202,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "4b3db334-fb91-40dc-85ba-0a1f19a3bd72")
 		(at 115 72 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW3"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "3221bf8a-3b5b-43ce-8fbc-054ae54ed540")
 			(effects
@@ -3220,7 +3220,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ef2608b-d968-496c-94e9-349e57b6444b")
@@ -3232,7 +3232,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "784308ff-2022-4e6e-8d0d-239d1f5598a3")
@@ -3244,7 +3244,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f6132b2-ad25-4a79-83fb-90a8d0aec480")
@@ -3257,7 +3257,7 @@
 		)
 		(path "/3164fade-a8bf-4a47-9830-d3b3e23e21c0")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3747,7 +3747,7 @@
 			(uuid "2576e143-ccff-4bde-a476-082c632d9dbf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "dca5bb00-3058-4fa0-a332-3afa644bcda4")
 			(effects
@@ -3825,14 +3825,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "50697d3e-b45e-46fb-8c44-2398d8c2eeb1")
 		(at 61 113 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW17"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "2fa04259-dca5-4c62-a17a-f28d3ceb6feb")
 			(effects
@@ -3843,7 +3843,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d4f04eb3-ef0c-427f-9682-f83792922fa7")
@@ -3855,7 +3855,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1a58f780-8135-401f-871a-178feb686a4e")
@@ -3867,7 +3867,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "466a471d-c9ea-45e1-8101-3f8d868be22f")
@@ -3880,7 +3880,7 @@
 		)
 		(path "/b8ce8675-bc79-41ee-b988-fb0932504294")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4370,7 +4370,7 @@
 			(uuid "a20a908c-ccbb-4e56-86a7-e12331eff4cd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "184a31a7-d2e2-40c3-b97a-952f1a8c4203")
 			(effects
@@ -4448,14 +4448,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "59510165-80bc-43d2-9b50-595697077162")
 		(at 153 132 165)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW19"
-			(at 0 -3 165)
+			(at 0 -8.999999 165)
 			(layer "F.Fab")
 			(uuid "1cc533ca-266c-4772-acd7-3601acdd97f9")
 			(effects
@@ -4503,7 +4503,7 @@
 		)
 		(path "/fc7d9b3b-6ef4-4584-ae52-a6ad287f6347")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4604,7 +4604,7 @@
 		)
 		(fp_line
 			(start -1.25 -4)
-			(end -1.75 -4.500002)
+			(end -1.75 -4.500001)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -4794,7 +4794,7 @@
 		)
 		(fp_line
 			(start -1.25 -4)
-			(end -1.75 -4.500002)
+			(end -1.75 -4.500001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -4803,7 +4803,7 @@
 			(uuid "859536ac-7246-4afb-b47f-9406fb24a897")
 		)
 		(fp_line
-			(start -1.75 -4.500002)
+			(start -1.75 -4.500001)
 			(end -1.75 -7.5)
 			(stroke
 				(width 0.05)
@@ -4944,7 +4944,7 @@
 		)
 		(fp_line
 			(start -1.25 -4)
-			(end -1.75 -4.500002)
+			(end -1.75 -4.500001)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -5071,14 +5071,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "5da5dbb1-f23a-4ac2-97d3-e40c2fbb2cab")
 		(at 115 89 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW8"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "12c7d22f-3cda-4a5d-8f86-a7ab12bbac94")
 			(effects
@@ -5089,7 +5089,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9439dfea-d2a6-422d-ac15-119afa11e5da")
@@ -5101,7 +5101,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d61c78d7-0dfc-4c02-85f9-3311736b4476")
@@ -5113,7 +5113,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "28e76115-91f7-4b19-8692-b0f111cc462a")
@@ -5126,7 +5126,7 @@
 		)
 		(path "/8971aeb1-86a9-4237-865c-dbb3b02274e4")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5616,7 +5616,7 @@
 			(uuid "7101ed81-8d36-4ff3-b19d-2e93a7f02f8f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "dbaa889f-b52d-45ca-90c8-bb4084f63448")
 			(effects
@@ -5694,14 +5694,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "60c623ba-e2ab-40d9-a34c-d53a1ff37a5b")
 		(at 79 117 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW11"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "709f66d3-12d4-49af-91af-fdf3401b8886")
 			(effects
@@ -5712,7 +5712,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "87c8d2ba-9dd2-4493-8b17-6ba4f43e1927")
@@ -5724,7 +5724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "34fb9b82-8558-42d3-82f0-947170d51b1b")
@@ -5736,7 +5736,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed8cda50-6a9f-486a-b0ef-2454edbef9e3")
@@ -5749,7 +5749,7 @@
 		)
 		(path "/b5a70c5b-cbc5-4e81-b726-2665714ad295")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6239,7 +6239,7 @@
 			(uuid "e05ede5e-9d55-43c3-bcc8-b7ebabaa830f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "e5871280-b61e-465b-94e7-a8ec4c7d3958")
 			(effects
@@ -6317,14 +6317,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "7512908c-a8e4-4c91-883f-8f2904a42080")
 		(at 133 75 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW4"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "0cd1cfaf-8007-4298-a71b-d677248a7e9f")
 			(effects
@@ -6335,7 +6335,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e680e1b9-325b-46a5-be9e-8edb6cf1fdaa")
@@ -6347,7 +6347,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8d3d4915-00c4-46eb-870b-9a5755282bb1")
@@ -6359,7 +6359,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8c73283-fc96-42e8-8a71-7d28fee88e77")
@@ -6372,7 +6372,7 @@
 		)
 		(path "/4eec2ff1-addf-4fc4-a378-9a100b1702d2")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6862,7 +6862,7 @@
 			(uuid "aa0ab278-a4f4-40be-8f03-976493bee116")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "5cd34bd7-68cf-4d43-8684-818a9dcaa7cb")
 			(effects
@@ -6940,14 +6940,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "762cd2b4-5cfa-4b93-b1c8-19814cf2aeac")
 		(at 97 90 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW7"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "7ef7d5f5-f1d2-429b-bb9a-f2b248007bcd")
 			(effects
@@ -6958,7 +6958,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "35d0fc0c-8093-4334-9644-452a1ab3bb3d")
@@ -6970,7 +6970,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22e4a5b0-6143-4db1-b5fc-234934650156")
@@ -6982,7 +6982,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "98c60e91-212b-446a-8028-e6288a929880")
@@ -6995,7 +6995,7 @@
 		)
 		(path "/b9cb2d67-f6a7-48f5-b2d3-fdff7a257472")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7485,7 +7485,7 @@
 			(uuid "0abba06e-5eec-4582-abbd-468a7f4406b8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "22b41944-8bbe-4896-b42b-37fbf8e8b8b9")
 			(effects
@@ -7545,7 +7545,7 @@
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
-			(net "Net-(Deee1-A)")
+			(net "Net-(D7-A)")
 			(pinfunction "2_2")
 			(pintype "passive")
 			(uuid "c1a6426f-690b-4a30-9f2c-3ec762c47972")
@@ -7563,14 +7563,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "779c1763-5146-4753-bed5-dda6c66e3770")
 		(at 173 136 -120)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW20"
-			(at 0 -3 60)
+			(at 0 -9 240)
 			(layer "F.Fab")
 			(uuid "a45896b2-8aab-4daa-a6e0-5a2414211013")
 			(effects
@@ -7581,7 +7581,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 60)
+			(at 0 9 240)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "41dbe60e-4f26-410a-9d25-7baf5e2c2884")
@@ -7593,7 +7593,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 60)
+			(at 0 0 240)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b1b019a-ce1a-4234-be65-e8583ee31674")
@@ -7605,7 +7605,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 60)
+			(at 0 0 240)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b61562aa-670a-437e-b184-1e24b7ba3079")
@@ -7618,7 +7618,7 @@
 		)
 		(path "/74c2bb34-b8cf-49e9-b29d-3ce13671a158")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8108,7 +8108,7 @@
 			(uuid "da942091-9555-4bfa-8c0a-8a67ded268d6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 60)
+			(at 0 0 240)
 			(layer "F.Fab")
 			(uuid "219ade45-02f3-4806-89d3-dfac9e6d2b63")
 			(effects
@@ -8186,14 +8186,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "86ee4b49-4ec6-4f38-ba39-632fc7aa8537")
 		(at 133 109 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW14"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "227f0af1-67ac-4fb0-bc85-ca8a6574e78b")
 			(effects
@@ -8204,7 +8204,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30d79e25-672d-4e94-b085-1bb404c5fdff")
@@ -8216,7 +8216,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e503d69a-9e6f-4a1a-b238-8d550a418bf6")
@@ -8228,7 +8228,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3ea7f682-31aa-44ce-a734-3e6d2b268a51")
@@ -8241,7 +8241,7 @@
 		)
 		(path "/b14f4908-60b1-45d8-a1b0-cac9874bca1e")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8731,7 +8731,7 @@
 			(uuid "0b6ef4a2-7b18-46f0-81d9-e84a28f95310")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "9401577d-21ec-46a3-9e75-643764509106")
 			(effects
@@ -8809,14 +8809,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "96588515-335a-4060-a5ab-67a927d25ab3")
 		(at 133 92 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW9"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "f03ad502-9046-466e-b635-5c92fe8e5b39")
 			(effects
@@ -8827,7 +8827,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85bef9de-9fe9-4580-9138-bac43463e022")
@@ -8839,7 +8839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b38a6f0a-b147-42cf-9ad4-cd9ce0b365d1")
@@ -8851,7 +8851,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "faf3c55e-e085-41dd-9cba-883ba2e63bbf")
@@ -8864,7 +8864,7 @@
 		)
 		(path "/9f8d7eb2-479f-4228-86d6-3cb565fbf13d")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9354,7 +9354,7 @@
 			(uuid "b189c21c-8941-4986-bd8e-820f4c367949")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "e6ba9a73-8050-4623-8292-1c97b0ce5aee")
 			(effects
@@ -9432,14 +9432,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "9b592b02-4c19-4f49-85d7-178b313c33d5")
 		(at 115 106 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW13"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "5b354987-2216-48a6-928c-b99a85d61207")
 			(effects
@@ -9450,7 +9450,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "49c7120e-ace1-4503-a3bd-b82d16385d58")
@@ -9462,7 +9462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec382be9-5a7e-46ae-92bd-52a261d965bb")
@@ -9474,7 +9474,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79e06944-1a1b-454b-b29a-beafab6eed38")
@@ -9487,7 +9487,7 @@
 		)
 		(path "/b655bd7d-3269-49c8-8cd7-b03a7922b484")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9977,7 +9977,7 @@
 			(uuid "3ec8d4ca-c76a-45b5-808d-e2d8379f5b5e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "b229a7bb-65b1-43c1-9d46-1e74a7ca2a8e")
 			(effects
@@ -10055,15 +10055,14 @@
 			)
 		)
 	)
-	(footprint "corbit:rotary_encoder_EC05E_Vert"
+	(footprint "reel:rotary_encoder_EC05E_Vert"
 		(layer "F.Cu")
 		(uuid "a9593fcc-73c7-4a37-b65c-398c7800acbc")
 		(at 191.31077 130.061731 -30)
 		(property "Reference" "SW21"
-			(at -7.969999 -44.065 60)
+			(at -14.5 4 330)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "99b23b7e-3fc8-40dd-abc3-684d5713a78f")
 			(effects
 				(font
@@ -10073,7 +10072,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder"
-			(at -0.125 -7.145001 330)
+			(at -1.5 -11 330)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10114,7 +10113,7 @@
 		(property ki_fp_filters "RotaryEncoder*")
 		(path "/ac3155d9-6bf3-451d-8081-2b880036b73e")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10347,7 +10346,7 @@
 			(uuid "24a32daf-819d-46c7-be30-571fefc8359a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -4 330)
+			(at -10 9.5 330)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "95d17d96-27d2-4a60-8b7a-24be85dba3f5")
@@ -10758,14 +10757,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "b3ed2833-6b89-4e0e-922b-657cfc5d087d")
 		(at 151 77 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW5"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "aeafdfcd-55cc-402f-852c-faa8fb68ed42")
 			(effects
@@ -10776,7 +10775,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a2f58a9-852e-4099-a186-37997a67da3d")
@@ -10788,7 +10787,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "edae52e2-40a4-43a6-b192-2c99924f175e")
@@ -10800,7 +10799,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "020e4d52-a70e-47ff-98d6-028dd49e1254")
@@ -10813,7 +10812,7 @@
 		)
 		(path "/657cf4fd-f13d-451b-aac4-e1496bda049c")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11303,7 +11302,7 @@
 			(uuid "8962ed90-b971-4725-9f0b-36039199b436")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "8d8adb95-6dfa-4c44-b19a-09ca3281086d")
 			(effects
@@ -11381,14 +11380,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "befb8dc1-7645-49d5-8bf7-76fa7550dfe1")
 		(at 151 94 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW10"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "497ad2b3-89ad-4bcc-a178-28d737943988")
 			(effects
@@ -11399,7 +11398,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5444ace4-ac81-4819-9640-8b8f671d31c5")
@@ -11411,7 +11410,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "15f3611b-1157-4998-b802-5cde00f94294")
@@ -11423,7 +11422,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8af59c3-941d-43db-bb43-f332e735da67")
@@ -11436,7 +11435,7 @@
 		)
 		(path "/a82181a7-ecb8-4453-a5d5-e95d3e8189b7")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11926,7 +11925,7 @@
 			(uuid "8ab55339-ec66-415e-a16b-a57a3ea803ec")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "394b69b0-6bea-4d7e-ae69-b7b78e86a227")
 			(effects
@@ -12004,7 +12003,7 @@
 			)
 		)
 	)
-	(footprint "corbit:XIAO_nRF52840_plus_mki"
+	(footprint "reel:XIAO_nRF52840_plus_mki"
 		(layer "F.Cu")
 		(uuid "d5e3e79d-581e-4f88-bbb1-9d588e542554")
 		(at 172.0635 74.985)
@@ -12056,7 +12055,7 @@
 		)
 		(path "/30aa7182-95f6-43dc-8d8c-89b410c87522")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12741,14 +12740,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "f90d20cf-9b95-482b-a45d-e10e34fd66f4")
 		(at 97 107 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW12"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "f9931661-6082-48d6-8744-94ba6ead9a5c")
 			(effects
@@ -12759,7 +12758,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "41f611e3-ee15-4563-a596-96b2ecd9890a")
@@ -12771,7 +12770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "91b2ff39-97a5-4e44-9ea3-6250e74dc6ae")
@@ -12783,7 +12782,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58aa0b36-6f4f-4d7a-b6d9-7d0deadc02a2")
@@ -12796,7 +12795,7 @@
 		)
 		(path "/79dd3f5d-53e6-4eaa-9e8b-90fd17958313")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13286,7 +13285,7 @@
 			(uuid "0cda71e7-122e-4453-988c-fa0eaad2767b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "f7ba5b8d-7b92-4456-93ce-eaae08c674ae")
 			(effects
@@ -13364,14 +13363,14 @@
 			)
 		)
 	)
-	(footprint "corbit:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
+	(footprint "reel:SW_Hotswap_Kailh_Choc_V1_1.00u-NoClickHole"
 		(layer "F.Cu")
 		(uuid "fc376c5b-daf5-4db1-a178-7ca2b5c225e5")
 		(at 79 83 180)
 		(descr "Kailh keyswitch Hotswap Socket with 1.00u keycap")
 		(tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u")
 		(property "Reference" "SW1"
-			(at 0 -3 0)
+			(at 0 -9 180)
 			(layer "F.Fab")
 			(uuid "ca223fe7-9a20-40c1-b01b-8bce252b1998")
 			(effects
@@ -13382,7 +13381,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 9 0)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ecf0399-03f0-46fc-ad29-004c5e0639c8")
@@ -13394,7 +13393,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4eb48c6d-be78-4742-9a13-a0d0e7a31f04")
@@ -13406,7 +13405,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56a743ea-5167-4b7b-906c-69c4d06e8822")
@@ -13419,7 +13418,7 @@
 		)
 		(path "/a7f1b12a-c874-42bb-acf8-cd8a4e6d1942")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13909,7 +13908,7 @@
 			(uuid "0f32032e-ad01-4d2c-8973-7963a7fe367a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "9679e6b6-a167-4876-bf52-b561a7f3fe91")
 			(effects
@@ -13990,7 +13989,7 @@
 	(footprint "Button_Switch_SMD:SW_SPDT_PCM12"
 		(layer "B.Cu")
 		(uuid "01f8e569-311e-45b2-88bc-f42edc455007")
-		(at 181 104 -90)
+		(at 180.5 105 -90)
 		(descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
 		(property "Reference" "SW22"
 			(at 0 3.2 90)
@@ -14046,7 +14045,7 @@
 		)
 		(path "/6b0ae1e3-3bf6-4e31-923c-bf3e9b83e1bd")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14514,7 +14513,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5cc97ddf-db7e-4d17-93e4-792f65957977")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14837,7 +14836,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/0aaf0485-ce72-481f-8a07-0358746b0e20")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15160,7 +15159,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/44d4a11d-90ba-4bc5-80cd-2016a5df50aa")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15483,7 +15482,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d36acbb3-3691-4571-bfed-2d8b99f810fb")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15806,7 +15805,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c2f2a273-9568-4565-b849-bacc11f1a594")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16129,7 +16128,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d572c49f-a898-43bf-91a3-63de1b042e63")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16452,7 +16451,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/678d1e4c-4478-480e-83fd-723d1c0b48a2")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16775,7 +16774,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/92d8c66d-9d32-444b-ba31-69652cefe06d")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17098,7 +17097,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6189e302-e221-4b2e-8dae-8a68385ba456")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17421,7 +17420,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a5626281-1594-4548-8f01-95da54d117d8")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17744,7 +17743,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/57929488-95d9-456d-a77c-f57e98227f82")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18067,7 +18066,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/90b275f4-4a72-4137-bafd-c5b88325e04e")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18283,7 +18282,7 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(Deee1-A)")
+			(net "Net-(D7-A)")
 			(pinfunction "A_2")
 			(pintype "passive")
 			(uuid "b10a122c-1b5c-4a1e-95ea-b05706e884d8")
@@ -18390,7 +18389,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/47b2ea1d-f04b-4aa4-ab67-61e5c1e8c97b")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18713,7 +18712,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/fbc5dbc1-0a70-4441-883d-abc3b80b2079")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19036,7 +19035,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9fcac7b4-7d57-4b75-9aa0-b0570d2a578c")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19341,7 +19340,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0334f595-1ef3-4447-b634-5e1a9ffdc5f0")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19800,7 +19799,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9a3304af-db7e-4159-b99c-f97fdc4b7ccd")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20123,7 +20122,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/04ae5258-2bfa-4306-9a1d-dc0a41bea9c0")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20446,7 +20445,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/24641bfc-ca7d-4726-b0a8-bc48928bffc2")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20769,7 +20768,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/696f3a02-1d03-4741-9d8f-921c3a2289e0")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21092,7 +21091,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/247c0755-1058-4b2c-b4b4-45f2b654eed0")
 		(sheetname "/")
-		(sheetfile "corbit.kicad_sch")
+		(sheetfile "reel.kicad_sch")
 		(units
 			(unit
 				(name "A")
