@@ -3185,7 +3185,7 @@
 			(uuid "56bedeac-8a59-44c8-8dd4-38c707198f2b")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#FLG01")
 					(unit 1)
@@ -3267,7 +3267,7 @@
 			(uuid "caf07155-46d5-4364-bffd-c3605cd8ab11")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "J1")
 					(unit 1)
@@ -3371,7 +3371,7 @@
 			(uuid "469cc5f9-5059-4219-9288-aab2614605a0")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D5")
 					(unit 1)
@@ -3475,7 +3475,7 @@
 			(uuid "2fc4660c-4b05-47d3-a1a8-6900243f36e0")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D19")
 					(unit 1)
@@ -3553,7 +3553,7 @@
 			(uuid "c443af98-2a9d-4b51-9365-d8e32c2f690a")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#FLG02")
 					(unit 1)
@@ -3657,7 +3657,7 @@
 			(uuid "080a6db8-d703-49d0-8a85-50854fd342eb")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D20")
 					(unit 1)
@@ -3761,7 +3761,7 @@
 			(uuid "19ecf93e-a840-483a-b591-0cf9e688949d")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D11")
 					(unit 1)
@@ -3841,7 +3841,7 @@
 			(uuid "9d053f8b-56b6-491c-b0ba-62fbf46479ae")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW15")
 					(unit 1)
@@ -3921,7 +3921,7 @@
 			(uuid "c78f998a-2225-4c64-9bf3-579507d01760")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW6")
 					(unit 1)
@@ -3961,7 +3961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "corbit:XIAO_nRF52840_plus_mki"
+		(property "Footprint" "reel:XIAO_nRF52840_plus_mki"
 			(at 60.452 15.494 0)
 			(hide yes)
 			(show_name no)
@@ -4076,7 +4076,7 @@
 			(uuid "e6c9a9c3-1b71-4ba2-9c07-ec8c16babf35")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "U1")
 					(unit 1)
@@ -4156,7 +4156,7 @@
 			(uuid "b1c43e1d-7ffa-4ad4-990f-7cf377de775e")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW3")
 					(unit 1)
@@ -4260,7 +4260,7 @@
 			(uuid "e73c919f-9b48-4f86-89d8-0db6dec5bf52")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D15")
 					(unit 1)
@@ -4364,7 +4364,7 @@
 			(uuid "7bd3fb85-d49c-406a-9a81-5df0a2d89637")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D10")
 					(unit 1)
@@ -4444,7 +4444,7 @@
 			(uuid "c04e0910-5717-48cd-9549-c1e7c92b4669")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW4")
 					(unit 1)
@@ -4548,7 +4548,7 @@
 			(uuid "374e0937-e177-4901-b04e-d84b561eb817")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D13")
 					(unit 1)
@@ -4627,7 +4627,7 @@
 			(uuid "ee0d42ea-ecf5-4824-b04c-0d500618881a")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#PWR03")
 					(unit 1)
@@ -4731,7 +4731,7 @@
 			(uuid "ad39648f-08b1-48a0-a0da-5528e3de7a64")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D9")
 					(unit 1)
@@ -4809,7 +4809,7 @@
 			(uuid "ce29535b-1636-43d2-a468-b76cd652a6d8")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#PWR05")
 					(unit 1)
@@ -4913,7 +4913,7 @@
 			(uuid "2916fc59-29fa-4929-9de5-3ecbf65ad80f")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D12")
 					(unit 1)
@@ -4993,7 +4993,7 @@
 			(uuid "1dc4b90d-c831-4534-8d52-8aa84446b504")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW5")
 					(unit 1)
@@ -5097,7 +5097,7 @@
 			(uuid "e70e4e1b-fb8c-4085-a908-b625ae784a6f")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D8")
 					(unit 1)
@@ -5201,7 +5201,7 @@
 			(uuid "69a662f4-1906-40f2-8d86-06d565060093")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D16")
 					(unit 1)
@@ -5284,7 +5284,7 @@
 			(uuid "95eb9ddf-2368-41c3-8eb8-4d1cc23517b8")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW22")
 					(unit 1)
@@ -5364,7 +5364,7 @@
 			(uuid "e6b49fb8-cad9-4255-93f4-8fe61aa4be2d")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW20")
 					(unit 1)
@@ -5444,7 +5444,7 @@
 			(uuid "15e0f322-ac98-4dfe-8590-e05253c0aefc")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW12")
 					(unit 1)
@@ -5524,7 +5524,7 @@
 			(uuid "849f9c21-8bf9-4c6a-83fa-0554fdc999f5")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW8")
 					(unit 1)
@@ -5628,7 +5628,7 @@
 			(uuid "78a88670-cc6a-4e96-bafd-79e432862317")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D7")
 					(unit 1)
@@ -5708,7 +5708,7 @@
 			(uuid "7bd89827-a6c3-4965-9fd4-fb593bb6dac4")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW16")
 					(unit 1)
@@ -5812,7 +5812,7 @@
 			(uuid "c294aa2c-2510-4c09-8634-21af03f1e7ed")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D14")
 					(unit 1)
@@ -5892,7 +5892,7 @@
 			(uuid "11bd2489-c216-49fe-9569-54b5bdaf0c24")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW18")
 					(unit 1)
@@ -5996,7 +5996,7 @@
 			(uuid "a7461a57-fafb-43ca-b748-211dcbc3a557")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D1")
 					(unit 1)
@@ -6076,7 +6076,7 @@
 			(uuid "fd64f29d-e5d8-45ef-b490-bbea757e8214")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW9")
 					(unit 1)
@@ -6180,7 +6180,7 @@
 			(uuid "3a1fa40a-d888-4e3d-8eef-b9bb6878a8f0")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D17")
 					(unit 1)
@@ -6259,7 +6259,7 @@
 			(uuid "001fb340-8b73-4871-bd26-f88fb17b536c")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#PWR01")
 					(unit 1)
@@ -6363,7 +6363,7 @@
 			(uuid "c69b4edd-b708-45d1-8481-c92182edf22c")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D3")
 					(unit 1)
@@ -6443,7 +6443,7 @@
 			(uuid "f7da02dc-4516-4f55-bf8a-4521712fee84")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW1")
 					(unit 1)
@@ -6523,7 +6523,7 @@
 			(uuid "630f180a-6747-4bfe-b46f-b2006de50b36")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW10")
 					(unit 1)
@@ -6608,7 +6608,7 @@
 			(uuid "78b132e9-13a0-4596-8110-6f1437315bf8")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW21")
 					(unit 1)
@@ -6688,7 +6688,7 @@
 			(uuid "ec91368a-48fd-4751-b26d-1518f7957d8c")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW14")
 					(unit 1)
@@ -6768,7 +6768,7 @@
 			(uuid "dfe4c038-7be5-4266-b7af-7a1fe3bd08e3")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW11")
 					(unit 1)
@@ -6848,7 +6848,7 @@
 			(uuid "47591a17-fcd3-4e08-bd8c-35f78a12ad56")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW13")
 					(unit 1)
@@ -6928,7 +6928,7 @@
 			(uuid "20284cdc-1a0f-4a3b-a675-f5f5d2263f6a")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW17")
 					(unit 1)
@@ -7008,7 +7008,7 @@
 			(uuid "bc9aeb46-4167-4ff7-9cb3-85afb4166551")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW7")
 					(unit 1)
@@ -7112,7 +7112,7 @@
 			(uuid "baf6cf16-4f0f-416d-9b29-34c85523dc99")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D4")
 					(unit 1)
@@ -7190,7 +7190,7 @@
 			(uuid "b6170dd2-4a39-4acc-9b30-1679933a21da")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#PWR04")
 					(unit 1)
@@ -7294,7 +7294,7 @@
 			(uuid "6d752086-0ac0-438f-a51c-f5798289e473")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D18")
 					(unit 1)
@@ -7398,7 +7398,7 @@
 			(uuid "65d97f01-16ba-4997-bfef-f8e1a65ac974")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D2")
 					(unit 1)
@@ -7477,7 +7477,7 @@
 			(uuid "2c8061a5-cdd7-48a6-9ac4-f19e46125298")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "#PWR02")
 					(unit 1)
@@ -7557,7 +7557,7 @@
 			(uuid "0fcbbca2-69bd-4297-8c0b-324e750b0e55")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW2")
 					(unit 1)
@@ -7661,7 +7661,7 @@
 			(uuid "33c958ec-f5e4-4d39-bd5f-9eb7f0b58971")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "D6")
 					(unit 1)
@@ -7741,7 +7741,7 @@
 			(uuid "f36d0677-83a6-4be6-a25f-f7b50146df8a")
 		)
 		(instances
-			(project "corbit"
+			(project "reel"
 				(path "/46fee64b-d8d5-4529-99df-0fd09c2b7c9b"
 					(reference "SW19")
 					(unit 1)
