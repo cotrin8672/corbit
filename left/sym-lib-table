@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "${KIPRJMOD}/../libs/Seeed_Studio_XIAO_Series.kicad_sym") (options "") (descr ""))
 	(lib (name "smkbd_Library") (type "KiCad") (uri "${KIPRJMOD}/../libs/smkbd_Library.kicad_sym") (options "") (descr ""))
+	(lib (name "roba") (type "KiCad") (uri "C:/Users/gummy/ghq/github.com/cotrin8672/ReeL/libs/roba.kicad_sym") (options "") (descr ""))
 )
